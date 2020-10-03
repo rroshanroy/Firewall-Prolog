@@ -1,2 +1,2 @@
 # Firewall-Prolog
-This is my end-semester project for the course Logic in Computer Science.
+This is my end-semester project for the course Logic in Computer Science at BITS Pilani.
